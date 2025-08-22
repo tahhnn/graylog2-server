@@ -7393,7 +7393,7 @@ eslint-config-airbnb@19.0.4:
     eslint-config-prettier "10.1.5"
     eslint-import-resolver-webpack "0.13.10"
     eslint-plugin-compat "6.0.2"
-    eslint-plugin-graylog "file:../../../../../../../../home/tahhn/.cache/yarn/v6/npm-eslint-config-graylog-1.3.0-bf1f5418-94b4-4497-8893-4b3cc8d37a94-1754983859376/node_modules/eslint-plugin-graylog"
+    eslint-plugin-graylog "file:packages/eslint-plugin-graylog"
     eslint-plugin-import "2.25.3"
     eslint-plugin-jest "29.0.1"
     eslint-plugin-jest-dom "5.5.0"
@@ -8890,12 +8890,12 @@ graphemer@^1.4.0:
     "@tanstack/react-query" "5.83.0"
     "@types/jquery" "3.5.32"
     "@types/react" "18.3.13"
-    babel-preset-graylog "file:../../../../../../../../home/tahhn/.cache/yarn/v6/npm-graylog-web-plugin-7.0.0-SNAPSHOT-3e9367fc-6419-4736-9432-f453558527db-1754983859220/node_modules/babel-preset-graylog"
-    eslint-config-graylog "file:../../../../../../../../home/tahhn/.cache/yarn/v6/npm-graylog-web-plugin-7.0.0-SNAPSHOT-3e9367fc-6419-4736-9432-f453558527db-1754983859220/node_modules/eslint-config-graylog"
+    babel-preset-graylog "file:packages/babel-preset-graylog"
+    eslint-config-graylog "file:packages/eslint-config-graylog"
     formik "2.4.6"
     history "^5.3.0"
     html-webpack-plugin "^5.5.0"
-    jest-preset-graylog "file:../../../../../../../../home/tahhn/.cache/yarn/v6/npm-graylog-web-plugin-7.0.0-SNAPSHOT-3e9367fc-6419-4736-9432-f453558527db-1754983859220/node_modules/jest-preset-graylog"
+    jest-preset-graylog "file:packages/jest-preset-graylog"
     jquery "3.7.1"
     moment "2.30.1"
     moment-timezone "0.6.0"
@@ -12473,9 +12473,9 @@ postcss@^8.5.6:
     source-map-js "^1.2.1"
 
 posthog-js@^1.52.0:
-  version "1.237.0"
-  resolved "https://registry.yarnpkg.com/posthog-js/-/posthog-js-1.237.0.tgz#351dc1984fc6124e6bbb21efe7ba8e116429560c"
-  integrity sha512-DyZfwDRz405cKKskL22CXvc9EpkBmuM9lCOYsZO3L1/zXu7IGiP9nNlLaxlzy7K/8mHxQ3szoy/DBSw/zXL1pw==
+  version "1.260.2"
+  resolved "https://registry.yarnpkg.com/posthog-js/-/posthog-js-1.260.2.tgz#66e034b3473e99ec985a415cd4acb60afc5d3201"
+  integrity sha512-2Q+QUz9j9+uG16wp0WcOEbezVsLZCobZyTX8NvWPMGKyPaf2lOsjbPjznsq5JiIt324B6NAqzpWYZTzvhn9k9Q==
   dependencies:
     core-js "^3.38.1"
     fflate "^0.4.8"
